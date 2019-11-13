@@ -11,3 +11,5 @@ For this project, we've used as sources :
 - http://nlp.Stanford.edu/sentiment/ (feeling dataset)
 - gensim doc2vec (to compare to our implementation)
 - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
+- https://code.google.com/archive/p/word2vec/
+- https://radimrehurek.com/gensim/models/doc2vec.html
