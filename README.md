@@ -13,3 +13,5 @@ For this project, we've used as sources :
 - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 - https://code.google.com/archive/p/word2vec/
 - https://radimrehurek.com/gensim/models/doc2vec.html
+- https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.LabeledLineSentence (list of all features)
+- https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4 (very good)
